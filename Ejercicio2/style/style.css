@@ -1,0 +1,95 @@
+body{
+    background-color: lightgray;
+}
+
+#Titulo{
+text-align: center;
+font-size: 40px;
+font-family: 'Titillium Web', sans-serif;
+color: aqua;
+}
+
+
+
+.subtitulo{
+
+color: blue;
+font-family: oblique;
+padding:10px;
+}
+
+
+p{
+padding: 25px;
+margin: 30px 50px;
+border: 5px dotted whitesmoke;
+border-radius: 20px;
+color: black;
+
+}
+
+
+ul{
+list-style: none;
+width: 100%;
+margin: 10px;
+text-align: center;
+padding: 15px;
+}
+
+ul li{
+    display: inline-block;
+}
+
+li a{
+
+    text-decoration: none;
+    color: white;
+    padding: 20px 50px;
+
+}
+
+li a:hover{
+background-color: orange;
+font-size: 22px;
+border-radius: 20px;
+
+}
+ 
+table{
+padding: 100px ;
+text-align: center;
+width: 100%;
+}
+
+img{
+text-align: center;
+width: 300px;
+height: 300px;
+border-radius: 50%;
+}
+
+header{
+    width: 100%;
+    height:  80vh;
+    background-image: url('../Imagenes/}.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    font-size: 10px;
+    }
+
+.Enlace{
+
+    padding: 30px;
+    background-color: palevioletred;
+    text-align: center;
+    width: 100px;
+    text-decoration: none;
+    text-align: center;
+    color: black;
+}
+div{
+    margin: 40px; 
+    
+}
